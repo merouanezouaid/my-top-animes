@@ -1,7 +1,9 @@
 body {
-    font-family: "lato";
+    font-family: 'Nunito', sans-serif;
     margin: 0px;
+    background: linear-gradient(to right, rgba(147,184,116,0), rgb(206, 11, 11));
 }
+
 
 .container {
     display: grid;
